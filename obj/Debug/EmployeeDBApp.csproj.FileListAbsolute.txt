@@ -1,0 +1,9 @@
+D:\Milan\Day_9\EmployeeDBApp\bin\Debug\EmployeeDBApp.exe.config
+D:\Milan\Day_9\EmployeeDBApp\obj\Debug\EmployeeDBApp.csprojResolveAssemblyReference.cache
+D:\Milan\Day_9\EmployeeDBApp\obj\Debug\EmployeeDBApp.EmployeeInformationUI.resources
+D:\Milan\Day_9\EmployeeDBApp\obj\Debug\EmployeeDBApp.Properties.Resources.resources
+D:\Milan\Day_9\EmployeeDBApp\obj\Debug\EmployeeDBApp.csproj.GenerateResource.Cache
+D:\Milan\Day_9\EmployeeDBApp\bin\Debug\EmployeeDBApp.exe
+D:\Milan\Day_9\EmployeeDBApp\bin\Debug\EmployeeDBApp.pdb
+D:\Milan\Day_9\EmployeeDBApp\obj\Debug\EmployeeDBApp.exe
+D:\Milan\Day_9\EmployeeDBApp\obj\Debug\EmployeeDBApp.pdb
